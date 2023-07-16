@@ -4,12 +4,12 @@
   padding: 0;
 }
 
-:root {
-
-}
-
 header {
   display: flex;
   justify-content: center;
+}
+
+main > * {
+  margin: 5px;
 }
 
